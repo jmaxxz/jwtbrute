@@ -10,7 +10,7 @@ echo secret| jwtbrute.exe eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEyMzQ1N
 Output
 > Secret was: secret
 
-##License
+## License
 
 The MIT License (MIT)
 
